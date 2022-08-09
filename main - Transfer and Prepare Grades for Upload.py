@@ -155,21 +155,21 @@ if __name__ == '__main__':
                     print('----------------------')
 
                 keys_for_period_for_assignments = {
-                    '2nd': 'Achanta, Aneesh',
-                    '3rd': 'Bone, Ayden',
-                    '4th': 'Chen, Huaiyu',
-                    '5th': 'Bisignano, Alexander',
-                    '7th': 'Amaechi, Noble',
-                    '8th': 'Amaba, Landon',
+                    '2nd': 'Achanta, Chris',
+                    '3rd': 'Bone, Devin',
+                    '4th': 'Chen, Matt',
+                    '5th': 'Bisignano, Drew',
+                    '7th': 'Amaechi, Jonathan',
+                    '8th': 'Amaba, Troy',
                 }
 
                 keys_for_period_for_gradebooks = {
-                    '2nd': 'Aneesh',
-                    '3rd': 'Ayden',
-                    '4th': 'Huaiyu',
-                    '5th': 'Alexander',
-                    '7th': 'Noble',
-                    '8th': 'Landon',
+                    '2nd': 'Chris',
+                    '3rd': 'Devin',
+                    '4th': 'Matt',
+                    '5th': 'Drew',
+                    '7th': 'Jonathan',
+                    '8th': 'Troy',
                 }
 
                 period = ''
