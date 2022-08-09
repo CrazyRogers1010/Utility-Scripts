@@ -127,7 +127,7 @@ if __name__ == '__main__':
     filenames_in_folder = os.listdir()
 
     # List of students whose data does not show up in the gradebook download and must be manually entered later.
-    names_for_manual = ['Rose, Aidan', 'Seitz, Colton', 'Gray, Mei Mei', 'Boyce, D\'Arcy']
+    names_for_manual = ['Rose, Sarah', 'Seitz, Terry', 'Gray, Elaine', 'Boyce, Joshua']
     manual_notice_lines = []
 
     for filename in filenames_in_folder:
